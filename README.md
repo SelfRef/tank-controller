@@ -6,7 +6,7 @@ author_site: timsmanter.net
 editor: Visual Studio Community 2015+
 language: C#
 framework: .NET Framework
-locales: pl_PL
+locale: pl_PL
 license: GPLv3
 status: [Beta, Sample]
 ---
