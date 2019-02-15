@@ -1,14 +1,17 @@
-# Arduino Tank Controller App
+---
+code_name: TM-P_TANKCONTROLLER_APP_NET_CSH_PART
+create_date: 2014-05
+author: TM
+author_site: timsmanter.net
+editor: Visual Studio Community 2015+
+language: C#
+framework: .NET Framework
+locales: pl_PL
+license: GPLv3
+status: [Beta, Sample]
+---
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2014-05
-* @Editor: Visual Studio Community 2015+
-* @Language: C#
-* @Framework: .NET Framework
-* @Locale: pl_PL
-* @License: [GPLv3](LICENSE.md)
-* @Status: Beta | Sample
+# Arduino Tank Controller App
 
 ## Overview
 
